@@ -1,1 +1,272 @@
-return(function(...)local Q={"\054\055\087\050\117\122\057\098\109\051\085\101\051\079\100\108\102\078\061\061","\073\106\053\119\082\071\101\104\073\053\061\061";"\043\089\109\055\121\113\057\048\069\057\101\111\121\089\108\056\083\103\090\061";"\085\048\109\119\083\122\111\087\117\051\121\061","\110\048\071\084\108\051\048\055\074\077\070\114\119\056\056\086\055\118\067\052\081\120\121\101\085\073\085\088\109\116\066\119\115\118\055\076\078\087\110\102\051\069\085\048\104\109\107\104\104\085\089\088\076\099\051\056\122\076\120\056\057\103\120\111\081\083\057\066\055\073\085\052\086\087\078\056\070\110\074\084\083\097\098\087\122\068\110\116\079\103\047\047\080\097\070\050\109\080\109\051\099\070\069\073\067\121\109\057\089\049\114\061","\043\107\097\070\043\107\057\089","\082\122\108\099\117\110\088\061","\102\051\111\098\043\051\109\047","\121\051\057\105\084\051\111\051\121\086\103\084\117\113\118\120","\043\090\085\090\051\084\109\074\109\110\085\052\100\075\082\085","\073\053\061\061";"\048\103\097\081\082\048\100\087\102\086\057\106\117\086\121\061","\067\120\052\113\102\052\083\061";"\117\086\097\087\082\050\109\089\083\122\119\070\082\098\061\061","\117\086\085\070","","\043\107\087\087\083\053\061\061","\082\107\103\087\102\086\109\101";"\112\050\100\089\083\079\102\119\102\078\061\061";"\083\113\082\104\121\090\102\105\121\107\109\070\085\079\108\089","\054\085\104\055\054\051\108\120\072\103\074\089","\043\077\119\089\082\054\061\061","\120\055\102\104\054\076\076\068\119\115\088\061","\048\103\097\104\117\122\100\119\068\078\061\061","\100\050\057\087\073\051\074\122\054\090\104\049\069\090\057\085","\109\103\119\085\083\077\119\050\082\048\119\055\072\121\102\070\054\098\061\061","\085\086\057\081\083\086\085\105\088\079\100\119\102\086\085\055\102\086\085\090\088\054\061\061";"\085\085\074\072";"\083\122\085\081\117\110\082\119";"\083\110\100\105\069\051\111\077","\121\086\097\098\051\051\114\108\069\055\074\121\072\075\074\105\054\090\114\061";"\085\086\097\072\084\122\043\103\072\077\104\047\073\075\087\111\069\121\052\061","\085\107\085\106\069\086\097\099\069\098\061\061","\083\086\109\087\117\086\098\061","\082\110\109\103\043\053\061\061";"\083\107\085\089\117\051\085\089\043\048\100\087\043\122\108\119","\106\117\098\122\054\071\120\072\087\090\051\049\070\100\101\056\120\113\105\073\083\081\117\113\083\097\072\097\100\089\098\049\071\083\081\070\102\079\085\086\108\104\072\061","\117\089\100\069\068\122\057\080\072\085\109\087\121\103\100\109";"\102\086\097\113\102\050\074\104\117\122\083\061","\117\051\057\089\069\078\061\061";"\117\075\088\061","\117\075\079\061","\082\048\074\105\117\110\088\061","\102\086\057\106\117\086\121\061";"\075\070\055\116\069\101\112\047\081\097\066\078\120\069\071\099\078\110\078\121\069\120\051\086\108\111\110\050\054\114\076\081\056\055\122\107\051\083\070\108\056\109\049\102\048\100\077\066\109\083\069\100\101\100\106\102\073\114\119\073\116\087\069\099\081\051\121\119\117\088\084\043\078\055\097\054\066\055\068\047\043\112\112\107\122\054\085\086\114\077\119\080\054\102\109\112\090\107\047\084\075\047\107\114\099\117\101\119\074\071\121\061";"\121\089\119\051\082\121\100\084\085\051\103\067\084\084\090\105","\065\106\088\070\118\107\069\118\073\110\054\102\103\100\050\057\115\118\089\119\079\080\065\119\077\055\048\085\050\080\102\112\100\118\079\057\084\051\055\110\069\114\099\110\077\122\069\073\073\110\107\090\120\074\104\106\047\049\065\115\112\100\113\111\106\099\083\108\112\097\071\087\117\108\112\086\097\052\120\111\085\090\047\073\048\119\089\119\115\069\112\075\115\104\087\078\049\043\112\117\085\051\078\101\051\098\061\061","\102\086\097\070\102\051\103\106\082\048\088\061","\082\107\057\081\082\054\061\061","\054\121\104\106\117\107\119\081\117\055\074\071\084\089\100\051";"\048\103\097\080\082\051\052\061";"\083\122\057\070\082\086\097\081","\084\057\104\054\084\077\109\089\073\048\104\118\082\079\100\074\109\053\061\061","\048\103\097\077\043\098\061\061","\072\057\090\107\100\119\054\107\102\084\079\110\084\077\100\077";"\117\055\082\084\054\090\108\057\117\089\111\065\068\085\072\103";"\102\086\057\113\069\098\061\061"}local function N(N)return Q[N+(-468655+521050)]end for N,W in ipairs({{155942-155941;-112106-(-112163)},{408686-408685;-934636-(-934653)},{-399834-(-399852),420013+-419956}})do while W[572979-572978]<W[714422+-714420]do Q[W[-44065+44066]],Q[W[-781814-(-781816)]],W[-235046-(-235047)],W[-782710-(-782712)]=Q[W[-661429+661431]],Q[W[1006399+-1006398]],W[15392+-15391]+(-383275-(-383276)),W[-873017-(-873019)]-(-727798-(-727799))end end do local N=string.char local W=table.insert local k={p=-407789+407807;["\052"]=-756223-(-756279),Y=914428+-914376;h=-785551-(-785592),e=-256616+256656;u=-981731-(-981758);N=-272424-(-272424),P=-479171-(-479215);q=-517501-(-517552);E=875861-875835;["\054"]=-729447-(-729463),["\055"]=-634612+634647,X=504312-504304;L=-486864-(-486895);i=498849-498799,["\053"]=-504464-(-504496);j=-773398-(-773432);["\048"]=762511-762488;F=-233703+233749,k=881073-881019;v=626739+-626738,B=-712059-(-712118),r=280229-280169,Q=-842618+842663,z=-587596-(-587634);o=342443+-342386;["\051"]=-295785+295807,C=-692725+692740,T=944509+-944490;d=-593825-(-593842);K=-409258-(-409261);J=575986+-575977,V=187750+-187744;I=248758-248744;["\049"]=-520166-(-520176),["\047"]=-864720-(-864763),s=-503921-(-503984),c=-83171+83218,w=375569-375532;O=433901+-433897,D=285511-285481,m=218535+-218522;A=-687371-(-687413);t=668981+-668919;l=-930508-(-930557),b=-628995-(-629043),H=-278301-(-278313),M=619059+-619020,g=505136+-505083;a=314090+-314029;["\057"]=433970-433965;y=787640+-787620,S=329286-329258;x=-156517+156575,f=614992-614963,n=-844154+844209;R=-931965+931990;W=-740727+740760,G=245992+-245990;["\050"]=-788024+788031,["\056"]=-600296-(-600307),["\043"]=682741+-682717;U=-110862-(-110883);Z=-774932-(-774968)}local f=string.sub local y=Q local m=table.concat local O=type local R=math.floor local Z=string.len for Q=-182245-(-182246),#y,379245-379244 do local I=y[Q]if O(I)=="\115\116\114\105\110\103"then local O=Z(I)local D={}local z=324779-324778 local a=-208870-(-208870)local r=390700-390700 while z<=O do local Q=f(I,z,z)local y=k[Q]if y then a=a+y*(-138084-(-138148))^((-493484-(-493487))-r)r=r+(619187+-619186)if r==-289577+289581 then r=-24289-(-24289)local Q=R(a/(71584-6048))local k=R((a%(581488-515952))/(922045+-921789))local f=a%(836026+-835770)W(D,N(Q,k,f))a=-774136+774136 end elseif Q=="\061"then W(D,N(R(a/(897532+-831996))))if z>=O or f(I,z+(-363306-(-363307)),z+(82083+-82082))~="\061"then W(D,N(R((a%(784566-719030))/(-476143+476399))))end break end z=z+(979454+-979453)end y[Q]=m(D)end end end return(function(Q,k,f,y,m,O,R,Y,e,j,d,z,r,D,L,v,u,W,Z,a,I)d,z,u,j,D,a,Z,I,r,v,e,L,W,Y=function(Q)I[Q]=I[Q]-(-262247-(-262248))if I[Q]==18849+-18849 then I[Q],Z[Q]=nil,nil end end,-50594-(-50594),function(Q,N)local k=a(N)local f=function(f,y,m,O,R,Z)return W(Q,{f,y;m;O,R;Z},N,k)end return f end,function(Q,N)local k=a(N)local f=function(f,y,m,O)return W(Q,{f;y;m,O},N,k)end return f end,function()z=(825530+-825529)+z I[z]=-539888-(-539889)return z end,function(Q)for N=96036-96035,#Q,317611-317610 do I[Q[N]]=I[Q[N]]+(-551152-(-551153))end if f then local W=f(true)local k=m(W)k[N(-950205+897851)],k[N(-640884+588503)],k[N(-476301-(-423917))]=Q,r,function()return-587378+2054943 end return W else return y({},{[N(535829-588210)]=r;[N(1024896+-1077250)]=Q;[N(-580658+528274)]=function()return-697462+2165027 end})end end,{},{},function(Q)local N,W=-480431+480432,Q[-642483-(-642484)]while W do I[W],N=I[W]-(189671-189670),(145830-145829)+N if I[W]==-915068+915068 then I[W],Z[W]=nil,nil end W=Q[N]end end,function(Q,N)local k=a(N)local f=function(f,y,m)return W(Q,{f,y,m},N,k)end return f end,function(Q,N)local k=a(N)local f=function(...)return W(Q,{...},N,k)end return f end,function(Q,N)local k=a(N)local f=function(f,y,m,O,R)return W(Q,{f;y;m,O;R},N,k)end return f end,function(W,f,y,m)local z,K,R,s,q,T,x,G,M,C,c,i,o,t,P,S,w,e,A,J,p,n,a,F,g,H,E,B,I,l,r,X,U,V while W do if W<9615463-(-8352)then if W<5065708-502128 then if W<2493579-463342 then if W<1005519-(-324458)then if W<1329284-478383 then if W<919356+-252478 then if W<992383+-452330 then i=-389739-(-389740)Z[z]=J w=Z[F]g=w+i s=S[g]E=M+s s=851578-851322 W=E%s M=W g=Z[X]s=p+g g=471599+-471343 E=s%g W=-776824+5455111 p=E else W=Q[N(849210+-901568)]R={z}end else x=N(-287081+234687)W=Q[x]x=N(1028608+-1081001)Q[x]=W W=12622177-(-1020480)end else if W<-477807+1496214 then W=8666089-(-499503)else K=#A W=-72610+14509915 x=506800+-506800 n=K==x end end else if W<2861391-924477 then if W<-499631+2327186 then if W<2247676-546225 then R={}W=Q[N(492463+-544852)]else W=true e=D()I=f z=D()Z[z]=W c=v(13028781-(-989695),{e})a=N(217580-269928)R=Q[a]r=D()a=N(202336-254696)W=R[a]a=D()Z[a]=W W=v(1036800+7064311,{})Z[r]=W W=false Z[e]=W l=N(-116260+63916)G=Q[l]l=G(c)R=l W=l and 133796+5200383 or 110627+1909274 end else R=N(323360-375724)W=Q[R]c=-42785+19738124611311 z=N(-975998+923612)I=Q[z]r=Z[y[-70305-(-70306)]]l=N(24353+-76741)e=Z[y[373164+-373162]]G=e(l,c)a=r[G]r=true e=N(764786-817145)e=I[e]z={e(I,a,r)}R=W(k(z))W=R()W=Q[N(-24893-27489)]R={}end else if W<1053186-(-953022)then B=-181222+181225 o=D()M=77667-77602 Z[o]=R W=Z[l]R=W(B,M)B=D()Z[B]=R W=524528+-524528 M=W A=N(-416099-(-363755))R=Q[A]W=-907516-(-907516)n=v(5850578-983870,{})A={R(n)}p=W R=638708+-638706 W={k(A)}U=N(945420-997759)A=W W=A[R]n=W R=N(-653462-(-601075))W=Q[R]K=Z[a]C=Q[U]U=C(n)C=N(-232510-(-180134))V=K(U,C)K={V()}R=W(k(K))K=D()Z[K]=R R=-657651-(-657652)V=Z[B]C=V V=-567666+567667 U=V W=5817746-468207 V=-219175+219175 x=U<V V=R-U else G=R l=N(-245016-(-192678))c=N(972926+-1025317)R=Q[l]l=N(-701331-(-648948))W=R[l]l=D()Z[l]=W R=Q[c]c=N(-91381-(-39009))W=R[c]B=W c=W p=N(141156+-193547)M=Q[p]W=M and 5997591-(-545969)or 7793422-178726 o=M end end end else if W<9120+3382073 then if W<2945028-101859 then if W<-226087+2902694 then if W<88291+2280506 then W=Q[N(17006-69346)]a=N(1312+-53703)z=Q[a]a=N(-619507+567158)I=z[a]a=Z[y[-648563-(-648564)]]z={I(a)}R={k(z)}else c=B W=12621281-(-256936)U=N(461940-514288)C=Q[U]U=N(-701048-(-648692))V=C[U]C=V(I,c)V=Z[y[906748+-906742]]U=V()K=C+U n=K+G K=856187+-855931 A=n%K U=573874+-573873 G=A c=nil K=a[z]C=G+U V=r[C]n=K..V a[z]=n end else E=Z[z]W=E and 4588843-44193 or-478256-(-901180)J=E end else if W<4338320-989503 then W=R and-25633+9558852 or 7896465-257192 else W={}Z[y[419949+-419947]]=W l=-665462-(-665717)e=-333098+35184372421930 R=Z[y[1014271+-1014268]]c=N(559089+-611437)r=R R=z%e Z[y[-265828-(-265832)]]=R G=z%l B=77602+-77601 l=-640626-(-640628)M=B e=G+l Z[y[400497-400492]]=e l=Q[c]c=N(1016191+-1068554)G=l[c]B=920445+-920445 l=G(I)c=538993+-538992 p=M<B o=l G=N(-43617+-8745)a[z]=G B=c-M W=-680181+13558398 G=735351+-735266 end end else if W<401196+3750346 then if W<447406+3527860 then a=916252-916220 z=Z[y[-373993-(-373996)]]I=z%a r=Z[y[-54750-(-54754)]]M=-347678-(-347691)l=Z[y[1016834-1016832]]o=-767608+767610 n=Z[y[-342888-(-342891)]]A=n-I n=255272+-255240 p=A/n B=M-p c=o^B G=l/c e=r(G)r=4295434990-467694 a=e%r e=-782584+782586 r=e^I z=a/r r=Z[y[-89119-(-89123)]]c=-464621-(-464622)l=z%c c=-949629+4295916925 G=l*c e=r(G)r=Z[y[-1015227-(-1015231)]]G=r(z)a=e+G e=-820667-(-886203)r=a%e G=a-r I=nil o=-1000127-(-1000383)l=-464750+530286 e=G/l W=1886617-(-288425)M=-903356+903612 l=208550-208294 G=r%l c=r-G l=c/o o=-1040320-(-1040576)a=nil z=nil c=e%o B=e-c o=B/M e=nil B={G,l;c;o}G=nil o=nil l=nil r=nil Z[y[732984-732983]]=B c=nil else a=1038784+-1038784 I=N(227815+-280207)W=Q[I]z=Z[y[-824050-(-824058)]]I=W(z,a)W=43169+13113585 end else if W<-668021+5099004 then a=nil n={}K=D()Z[K]=n n=D()x=j(-903420+11708486,{K,o,B;e})S=N(565042+-617408)H=D()l=nil G=nil s=nil q=N(-759480+707126)X={}Z[n]=x A=nil t=N(661568-713910)M=nil x={}Z[H]=x x=Q[t]G=N(-866643-(-814265))c=nil P=Z[H]F={[q]=P,[S]=s}e=d(e)t=x(X,F)Z[z]=t x=u(467374+12008399,{H,K;p;o;B,n})K=d(K)H=d(H)B=d(B)B=N(-439225-(-386860))Z[r]=x n=d(n)R={}e=Q[G]M=23284802625703-576498 x=32678182639567-450798 l=Z[z]o=d(o)c=Z[r]p=d(p)o=c(B,M)M=75874+9299961674099 G=l[o]a=e[G]G=v(178022+1663698,{z;r})e=a(G)B=403116+20727070565563 c=N(816057+-868412)e=Z[z]o=-595826+12493367985381 G=Z[r]K=N(-949501+897128)l=G(c,o)a=e[l]e=N(286421-338795)W=Q[N(-655299-(-602931))]Q[e]=a o=N(791877-844218)G=Z[z]l=Z[r]c=l(o,B)e=G[c]G=N(516153-568498)Q[G]=e l=Z[z]c=Z[r]B=N(513072+-565462)o=c(B,M)G=l[o]c=N(-779768+727404)l=N(931261+-983611)B=N(187622+-240008)Q[l]=G l=Q[c]o=Q[B]p=Z[z]A=Z[r]n=A(K,x)M=p[n]p=N(-351851+299492)p=o[p]B={p(o,M)}c=l(k(B))r=d(r)z=d(z)l=c()else s=852218+-852217 E=S[s]W=-358700-(-781624)J=E end end end end else if W<7102057-(-95907)then if W<-595442+5942532 then if W<375724+4565943 then if W<4391890-(-316138)then if W<3609317-(-1042048)then E=W w=900220+-900219 g=S[w]w=false s=g==w W=s and-96291+12056464 or 17825+9979792 J=s else F=d(F)H=d(H)q=d(q)S=nil X=d(X)P=d(P)t=d(t)W=5340163-(-9376)end else z=N(-294252-(-241895))R=25057+8196890 a=836922+1780502 I=z^a W=R-I R=N(575666+-628043)I=W W=R/I R={W}W=Q[N(-326954+274569)]end else if W<4395191-(-847290)then a=Z[y[811961+-811955]]z=a==I W=-189286+14000908 R=z else G=Z[e]W=520816+1499085 R=G end end else if W<625523+5663193 then if W<4818155-(-728247)then V=V+U R=V<=C H=not x R=H and R H=V>=C H=x and H R=H or R H=374636+14200913 W=R and H R=-125860+12721445 W=W or R else n=K X=n A[n]=X n=nil W=16159501-103715 end else if W<-468975+7113089 then A=N(34812-87203)p=Q[A]A=N(-398316+345946)M=p[A]o=M W=248808+7365888 else W=true W=W and 950333+11399996 or-487599+16147597 end end end else if W<8538587-(-210471)then if W<7881701-60130 then if W<241319+7393494 then if W<767992+6590538 then W=3013564-1023360 B=N(-431149+378779)o=Q[B]R=o else W=B W=o and 2499052-508848 or 1013759+6248671 R=o end else W=Z[y[-633524+633531]]W=W and 4944631-815737 or 13465212-308458 end else if W<7862879-(-178214)then r=-732982-(-732983)z=Z[y[-325354+325355]]e=-1038528+1038530 a=z(r,e)z=832634+-832633 I=a==z R=I W=I and-630516+3606863 or 12734757-(-217191)else R=N(838548-890940)W=Q[R]I=N(-416170-(-363819))R=W(I)R={}W=Q[N(-468591+416238)]end end else if W<-903612+10202635 then if W<693686+8332192 then K=#A x=-899580+899580 n=K==x W=n and 799097+3362054 or-791545+15228850 else r=d(r)M=nil A=nil l=d(l)c=nil B=d(B)a=d(a)c=N(867222-919613)A={}K=d(K)G=nil r=D()e=d(e)o=d(o)a=nil n=nil p=nil z=d(z)K=46433-46177 p=D()M={}z=nil Z[r]=z z=D()Z[z]=a G=N(452542-504880)e=Q[G]G=N(531312+-583683)a=e[G]e=D()l=N(232103+-284441)B=D()Z[e]=a n=101092-101091 G=Q[l]l=N(377580+-429963)o=N(-76258+23910)W=15782466-(-273320)a=G[l]x=K K=-1035136+1035137 l=Q[c]c=N(415986-468335)H=K G=l[c]c=Q[o]o=N(-47145-5216)K=733751+-733751 l=c[o]o=D()c=974270+-974270 Z[o]=c c=977726+-977724 Z[B]=c Z[p]=M c={}M=598131+-598131 t=H<K K=n-H end else if W<9449180-(-61858)then a=616755+-616550 z=Z[y[-533551-(-533553)]]I=z*a z=29001578396910-414573 R=I+z I=-816569+35184372905401 W=R%I Z[y[603701-603699]]=W I=Z[y[-755444-(-755447)]]z=402220+-402219 R=I~=z W=13711682-141220 else r=N(-84899+32560)c=N(-356715+304371)R=N(-937438-(-885051))W=Q[R]I=Z[y[-884411+884415]]o=j(9429631-(-669365),{})a=Q[r]l=Q[c]c={l(o)}l=742521-742519 G={k(c)}e=G[l]r=a(e)a=N(883707+-936083)z=I(r,a)I={z()}R=W(k(I))I=R z=Z[y[398252+-398247]]R=z W=z and-391788+5529865 or 13360632-(-450990)end end end end end else if W<12959118-(-109923)then if W<12140789-530096 then if W<-22177+10751513 then if W<9769509-(-287209)then if W<10721502-765048 then if W<-367083+10193790 then U=-624306-(-624307)W=Z[l]x=-805945+805951 C=W(U,x)W=N(-1032448+980054)Q[W]=C x=N(555825+-608219)U=Q[x]x=-301863-(-301865)W=U>x W=W and 11572994-1036224 or 441326+331817 else W=15502394-(-428973)end else R=J W=E W=915772+12393562 end else if W<-925245+11036947 then z=N(-442924-(-390572))R=667701+1941531 a=3184705-(-88099)I=z^a W=R-I I=W R=N(515120+-567495)W=R/I R={W}W=Q[N(-652815-(-600435))]else H=N(554033+-606426)U=N(-389469-(-337130))W=Q[U]x=Q[H]U=W(x)W=N(-539825+487431)Q[W]=U W=14391896-749239 end end else if W<-514032+11768518 then if W<777016+10201332 then I=Z[y[-1028351-(-1028352)]]R=#I I=-856635-(-856635)W=R==I W=W and-287593+9797771 or 885499+1289543 else C=M==p V=C W=12966444-(-58210)end else if W<10822183-(-476271)then W=Q[N(465461-517808)]R={}else l=not G a=a+e z=a<=r z=l and z l=a>=r l=G and l z=l or z l=12803175-(-932669)W=z and l z=-168549+13541373 W=W or z end end end else if W<11632395-(-960638)then if W<12230085-(-113188)then if W<-655220+12802236 then if W<11056364-(-754935)then R=N(-690613+638219)W=Q[R]I=N(-863330-(-810937))R=Q[I]I=N(-55394+3001)Q[I]=W W=677173+15254194 I=N(-286097-(-233703))Q[I]=R I=Z[y[-63265-(-63266)]]z=I()else w=111077-111075 W=9495041-(-502576)g=S[w]w=Z[P]s=g==w J=s end else a=194598+-194597 z=Z[y[-501104+501107]]I=z~=a W=I and 680821+2920185 or 13315638-(-254824)end else if W<-314282+12741470 then W=16335251-(-8288)else z=f[844090+-844088]W=Z[y[272809-272808]]I=f[-847994+847995]a=W W=a[z]W=W and 14606814-(-521200)or 857467+2494699 end end else if W<13519331-586738 then if W<13727427-912572 then C=Z[z]V=C W=C and 673141+10565090 or 13574975-550321 else B=B+M c=B<=o A=not p c=A and c A=B>=o A=p and A c=A or c A=1724756-(-810745)W=c and A c=14486106-(-89955)W=W or c end else if W<12997425-(-17313)then W=-805113+3781460 z=Z[y[213929-213927]]a=Z[y[-81376-(-81379)]]I=z==a R=I else Z[z]=V W=Z[z]W=W and 480751+494638 or 13204339-(-834618)end end end end else if W<-938813+14960750 then if W<12576389-(-1031232)then if W<12386387-(-941181)then if W<13277547-81827 then if W<576946+12570950 then J=Z[z]W=J and 4998265-418797 or-266728+13576062 R=J else z=544049+-544048 W={}I=W a=Z[y[632692+-632683]]r=a a=190182+-190181 e=a W=-832570+12321689 a=443118-443118 G=e<a a=z-e end else W=-668533+5346820 Z[z]=R end else if W<304681+13264515 then W=Z[y[576636-576626]]z=Z[y[-16353+16364]]I[W]=z W=Z[y[-232603-(-232615)]]z={W(I)}R={k(z)}W=Q[N(-811155-(-758776))]else z=Z[y[-20638-(-20641)]]W=13140338-987647 a=-256747-(-256872)I=z*a z=860667+-860410 R=I%z Z[y[962433-962430]]=R end end else if W<14132477-321578 then if W<13278987-(-418413)then W=17149356-805817 else o=-173414-(-173669)z=a c=-107939-(-107939)W=Z[y[-118244+118245]]l=W(c,o)I[z]=l z=nil W=513456+10975663 end else if W<-624755+14631913 then I=nil Z[y[-17052-(-17057)]]=R W=-230567+7869840 else R={}W=true Z[y[-642675-(-642676)]]=W W=Q[N(-489647+437278)]end end end else if W<378732+14850461 then if W<15528996-953086 then if W<14856535-377900 then if W<-178790+14593824 then W=true W=-883387+16543385 else K=871099+-871098 x=#A n=a(K,x)K=G(A,n)x=Z[p]W=-1007615+9817356 X=83427+-83426 n=nil t=K-X H=l(t)x[K]=H K=nil end else H=D()t=N(729207+-781545)Z[H]=V R=Q[t]t=N(-937626-(-885243))W=R[t]T=638211-628211 t=302057+-302056 F=750518-750263 X=414445+-414345 R=W(t,X)S=1019394-1019392 P=889852+-889851 X=289513+-289513 t=D()Z[t]=R W=Z[l]R=W(X,F)X=D()F=623411+-623410 Z[X]=R W=Z[l]q=Z[t]R=W(F,q)F=D()Z[F]=R R=Z[l]q=R(P,S)i=276393+-276393 s=N(425261+-477600)R=672886-672885 W=q==R q=D()R=N(-247870-(-195494))Z[q]=W S=N(-902793-(-850426))E=Q[s]g=Z[l]W=N(-84888-(-32545))w={g(i,T)}s=E(k(w))E=N(493743+-546110)W=n[W]J=s..E P=S..J W=W(n,R,P)P=D()Z[P]=W S=N(-557480-(-505136))R=Q[S]J=Y(8378144-359467,{l,H,B,a;z;K,q;P,t,F;X,o})S={R(J)}W={k(S)}S=W W=Z[q]W=W and 13985548-888188 or 2379048-(-399660)end else if W<15952904-989311 then l=nil W=-931389+1566800 r=nil G=nil else W=1638290-1002879 end end else if W<16953184-907388 then if W<15283762-(-532721)then W=L(9976592-47585,{r})C={W()}R={k(C)}W=Q[N(-1022648-(-970302))]else W=true W=W and-125924+11919692 or-806585+2470123 end else if W<15763748-(-528752)then K=K+H X=not t n=K<=x n=X and n X=K>=x X=t and X n=X or n X=5478791-(-423213)W=n and X n=1899546-775672 W=W or n else W=true W=W and 10258970-574194 or 11623683-355755 end end end end end end end W=#m return k(R)end,function(Q,N)local k=a(N)local f=function(f,y)return W(Q,{f,y},N,k)end return f end return(e(1144962-(-675765),{}))(k(R))end)(getfenv and getfenv()or _ENV,un
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blox Fruits ESP Locator</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .map-container {
+            position: relative;
+            background-image: url('https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/305651fa-07ca-46e8-957f-8c0ded1973ef.png');
+            background-size: cover;
+        }
+        .fruit-marker {
+            position: absolute;
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            background-color: rgba(255, 0, 0, 0.7);
+            border: 2px solid white;
+            animation: pulse 1.5s infinite;
+        }
+        @keyframes pulse {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.2); }
+            100% { transform: scale(1); }
+        }
+    </style>
+</head>
+<body class="bg-gray-900 text-white">
+    <div class="container mx-auto px-4 py-8">
+        <header class="mb-10 text-center">
+            <div class="flex items-center justify-center mb-4">
+                <img src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/50fde946-9be3-4256-937b-c9aeaa102b70.png" alt="Monarch Hub Logo" class="mr-4">
+                <h1 class="text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-red-500">MONARCH HUB</h1>
+            </div>
+            
+            <div class="tabs flex justify-center mb-6">
+                <button class="tab-btn px-6 py-2 bg-gray-700 rounded-l-lg" data-tab="esp">ESP</button>
+                <button class="tab-btn px-6 py-2 bg-gray-700" data-tab="tp">Teleport</button>
+                <button class="tab-btn px-6 py-2 bg-gray-700 rounded-r-lg" data-tab="settings">Settings</button>
+            </div>
+            
+            <div class="tab-content active" id="esp-tab">
+
+        </div> <!-- end esp-tab -->
+        
+        <div class="tab-content hidden" id="tp-tab">
+            <h2 class="text-3xl mb-6">Teleport Options</h2>
+            <p class="text-gray-400">Coming soon</p>
+        </div>
+
+        <div class="tab-content hidden" id="settings-tab">
+            <h2 class="text-3xl mb-6">Settings</h2>
+            <p class="text-gray-400">Coming soon</p>
+        </div>
+
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-8 mb-10">
+            <div class="bg-gray-800 p-6 rounded-xl">
+                <h2 class="text-2xl font-bold mb-6">Control Panel</h2>
+                <div class="space-y-4">
+                    <div>
+                        <label class="block mb-2">Webhook URL</label>
+                        <input type="text" id="webhook-url" placeholder="Your Discord webhook URL" class="w-full px-3 py-2 bg-gray-700 rounded">
+                    </div>
+                    <div>
+                        <label class="block mb-2">Scan Interval (seconds)</label>
+                        <input type="number" id="scan-interval" value="60" class="w-full px-3 py-2 bg-gray-700 rounded">
+                    </div>
+                    <button id="start-btn" class="w-full py-2 bg-green-600 rounded">Start</button>
+                    <button id="stop-btn" class="w-full py-2 bg-red-600 rounded" disabled>Stop</button>
+                </div>
+            </div>
+
+            <div class="bg-gray-800 p-6 rounded-xl">
+                <h2 class="text-2xl font-bold mb-6">Fruits Tracked</h2>
+                <div class="grid grid-cols-3 gap-3">
+                    <div class="fruit-icon" data-fruit="spider">
+                        <img src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/9a6b162a-b064-46ca-b204-1fa4b0a8d64d.png" alt="Spider fruit" class="rounded cursor-pointer">
+                    </div>
+                    <div class="fruit-icon" data-fruit="flame">
+                        <img src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/258f4e2d-ac93-4137-b556-e796693ac151.png" alt="Flame fruit" class="rounded cursor-pointer">
+                    </div>
+                    <div class="fruit-icon" data-fruit="ice">
+                        <img src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/b90ec3f7-59ce-41cc-bcea-be7374aa7d11.png" alt="Ice fruit" class="rounded cursor-pointer">
+                    </div>
+                    <div class="fruit-icon" data-fruit="light">
+                        <img src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/c985de06-ae52-47eb-a1c7-eb50664a104b.png" alt="Light fruit" class="rounded cursor-pointer">
+                    </div>
+                    <div class="fruit-icon" data-fruit="quake">
+                        <img src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/bdf25104-e833-48d4-a891-54a4274a3800.png" alt="Quake fruit" class="rounded cursor-pointer">
+                    </div>
+                    <div class="fruit-icon" data-fruit="dark">
+                        <img src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/e310cfb8-8346-4ea9-8fda-d0f81295ca91.png" alt="Dark fruit" class="rounded cursor-pointer">
+                    </div>
+                </div>
+            </div>
+
+            <div class="bg-gray-800 p-6 rounded-xl">
+                <h2 class="text-2xl font-bold mb-6">Status</h2>
+                <div>
+                    <p>Last Scan: <span id="last-scan" class="font-mono">Never</span></p>
+                    <p>Fruits Found: <span id="fruits-found" class="font-mono">0</span></p>
+                    <p>Webhook: <span id="webhook-status" class="font-mono">Not connected</span></p>
+                </div>
+            </div>
+        </div>
+
+        <div class="map-container w-full h-96 rounded-xl mb-8">
+            <div id="map-markers"></div>
+        </div>
+
+        <div class="bg-gray-800 p-6 rounded-xl">
+            <h2 class="text-2xl font-bold mb-4">Detected Fruits</h2>
+            <table class="w-full">
+                <thead>
+                    <tr>
+                        <th class="text-left p-2">Fruit</th>
+                        <th class="text-left p-2">Location</th>
+                        <th class="text-left p-2">Time</th>
+                    </tr>
+                </thead>
+                <tbody id="fruit-table">
+                    <tr>
+                        <td colspan="3" class="text-center p-4 text-gray-500">No fruits detected</td>
+                    </tr>
+                </tbody>
+            </table>
+            <button id="export-btn" class="mt-4 px-4 py-2 bg-blue-600 rounded">Export Data</button>
+        </div>
+    </div>
+
+    <script>
+        // Tab switching functionality
+        document.querySelectorAll('.tab-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                document.querySelectorAll('.tab-content').forEach(tab => {
+                    tab.classList.add('hidden');
+                    tab.classList.remove('active');
+                });
+                document.getElementById(`${btn.dataset.tab}-tab`).classList.remove('hidden');
+                document.getElementById(`${btn.dataset.tab}-tab`).classList.add('active');
+                
+                document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('bg-blue-600'));
+                btn.classList.add('bg-blue-600');
+            });
+        });
+
+        const selectedFruits = new Set();
+        const foundFruits = [];
+        let scanInterval = null;
+
+        document.querySelectorAll('.fruit-icon').forEach(icon => {
+            icon.addEventListener('click', () => {
+                const fruit = icon.dataset.fruit;
+                if (selectedFruits.has(fruit)) {
+                    selectedFruits.delete(fruit);
+                    icon.querySelector('img').style.opacity = '0.5';
+                } else {
+                    selectedFruits.add(fruit);
+                    icon.querySelector('img').style.opacity = '1';
+                }
+            });
+        });
+
+        document.getElementById('start-btn').addEventListener('click', () => {
+            if (selectedFruits.size === 0) {
+                alert('Select at least one fruit');
+                return;
+            }
+
+            const interval = parseInt(document.getElementById('scan-interval').value) * 1000;
+            scanInterval = setInterval(scanForFruits, interval);
+            document.getElementById('start-btn').disabled = true;
+            document.getElementById('stop-btn').disabled = false;
+            scanForFruits();
+        });
+
+        document.getElementById('stop-btn').addEventListener('click', () => {
+            clearInterval(scanInterval);
+            document.getElementById('start-btn').disabled = false;
+            document.getElementById('stop-btn').disabled = true;
+        });
+
+        async function scanForFruits() {
+            // Simulate finding fruits
+            const fruitsFound = simulateFindFruits();
+            foundFruits.push(...fruitsFound);
+            updateDisplay(fruitsFound);
+            
+            // Try to send webhook
+            const webhookUrl = document.getElementById('webhook-url').value;
+            if (webhookUrl) {
+                await sendToWebhook(fruitsFound);
+            }
+
+            document.getElementById('last-scan').textContent = new Date().toLocaleTimeString();
+        }
+
+        function simulateFindFruits() {
+            const fruits = [];
+            if (Math.random() > 0.5) {
+                fruits.push({
+                    type: Array.from(selectedFruits)[Math.floor(Math.random() * selectedFruits.size)],
+                    x: Math.random(),
+                    y: Math.random(),
+                    time: new Date()
+                });
+            }
+            return fruits;
+        }
+
+        async function sendToWebhook(fruits) {
+            try {
+                const response = await fetch(document.getElementById('webhook-url').value, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        content: `Found ${fruits.length} new Blox Fruits!`,
+                        embeds: fruits.map(fruit => ({
+                            title: `Found ${fruit.type} fruit`,
+                            description: `Location: ${fruit.x.toFixed(2)}, ${fruit.y.toFixed(2)}`,
+                            color: 0x00ff00
+                        }))
+                    })
+                });
+                document.getElementById('webhook-status').textContent = response.ok ? 'Sent' : 'Failed';
+            } catch (e) {
+                document.getElementById('webhook-status').textContent = 'Error';
+            }
+        }
+
+        function updateDisplay(fruits) {
+            document.getElementById('fruits-found').textContent = foundFruits.length;
+            
+            // Update map markers
+            const markersContainer = document.getElementById('map-markers');
+            markersContainer.innerHTML = '';
+            fruits.forEach(fruit => {
+                const marker = document.createElement('div');
+                marker.className = 'fruit-marker';
+                marker.style.left = `${fruit.x * 100}%`;
+                marker.style.top = `${fruit.y * 100}%`;
+                markersContainer.appendChild(marker);
+            });
+            
+            // Update table
+            const tableBody = document.getElementById('fruit-table');
+            tableBody.innerHTML = '';
+            foundFruits.forEach(fruit => {
+                const row = document.createElement('tr');
+                row.innerHTML = `
+                    <td class="p-2">${fruit.type}</td>
+                    <td class="p-2">${fruit.x.toFixed(2)}, ${fruit.y.toFixed(2)}</td>
+                    <td class="p-2">${fruit.time.toLocaleTimeString()}</td>
+                `;
+                tableBody.appendChild(row);
+            });
+        }
+
+        document.getElementById('export-btn').addEventListener('click', () => {
+            const data = JSON.stringify(foundFruits, null, 2);
+            const blob = new Blob([data], { type: 'application/json' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'blox-fruits-data.json';
+            a.click();
+        });
+    </script>
+</body>
+</html>
